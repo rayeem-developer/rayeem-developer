@@ -34,8 +34,8 @@ I'm a passionate **MERN Stack Developer** and a **WordPress expert**, building b
 ---
 
 ### 📫 Let's Connect!
-- 💼 [Fiverr](https://www.fiverr.com/) (Insert your Fiverr link here)
-- 📧 Email: your-email@example.com
+- 💼 [Fiverr]([https://www.fiverr.com/](https://www.fiverr.com/s/8zl9WAr)) 
+- 📧 Email: rayeemalmatin@gmail.com
 
 ---
 
